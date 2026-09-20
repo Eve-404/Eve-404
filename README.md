@@ -7,18 +7,18 @@
 ## 🛠 Projects:
 
 **Machine Learning**
-- [**NY Taxi Trip Duration prediction**](https://github.com/asa-eve/New-York-City-Taxi-Trip-Duration) | Pandas . Scikit-Learn . Seaborn . SQL . Docker
-- [**Competitive Data Science methods**](https://github.com/asa-eve/DS-code-practice) | TBD
-- [**Automated LLM code parser for ML development on Kaggle**](https://github.com/asa-eve/Kaggle-Competition-Code-Parser) | Pandas, Selenium, Ollama
+- [**NY Taxi Trip Duration prediction**](https://github.com/Eve-404/New-York-City-Taxi-Trip-Duration) | Pandas . Scikit-Learn . Seaborn . SQL . Docker
+- [**Competitive Data Science methods**](https://github.com/Eve-404/DS-code-practice) | TBD
+- [**Automated LLM code parser for ML development on Kaggle**](https://github.com/Eve-404/Kaggle-Competition-Code-Parser) | Pandas, Selenium, Ollama
   
 **Reinforcement Learning & ML**
-- [**Microgrid battery management using Deep Reinforcement Learning (AzureVMS)**](https://github.com/asa-eve/Battery_Energy_Management_RL)
-- [**Stock Trading Bot**](https://github.com/asa-eve/Trading_Bot_RL)
+- [**Microgrid battery management using Deep Reinforcement Learning (AzureVMS)**](https://github.com/Eve-404/Battery_Energy_Management_RL)
+- [**Stock Trading Bot**](https://github.com/Eve-404/Trading_Bot_RL)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asa-eve&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=asa-eve&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asa-eve&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Eve-404&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eve-404&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eve-404&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=asa-eve&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eve-404&icon=0&color=6)](https://visitcount.itsvg.in)
