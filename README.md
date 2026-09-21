@@ -14,11 +14,3 @@
 **Reinforcement Learning & ML**
 - [**Microgrid battery management using Deep Reinforcement Learning (AzureVMS)**](https://github.com/Eve-404/Battery_Energy_Management_RL)
 - [**Stock Trading Bot**](https://github.com/Eve-404/Trading_Bot_RL)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Eve-404&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Eve-404&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eve-404&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Eve-404&icon=0&color=6)](https://visitcount.itsvg.in)
